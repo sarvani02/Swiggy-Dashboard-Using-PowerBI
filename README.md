@@ -51,6 +51,6 @@ It helps identify pricing patterns, top-rated restaurants, and city-wise service
 ---
 
 ## 📚 Author
-*Tadi Sarvani*  
+*Tandyana Sarvani*  
 B.Tech – Computer Science and Data Science (CSD)  
 Power BI | Data Analysis | Visualization Enthusiast
